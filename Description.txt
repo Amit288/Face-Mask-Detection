@@ -1,0 +1,18 @@
+
+>>>The dataset consisted of 1376 images,
+ 690 face images with masks and 686 without masks.
+ The original dataset is prepared by Prajna Bhandary and available at Github
+
+>>Technology:-tensorflow,keras,openCV,CNN
+
+>>>here,you will get Four python file 
+
+1.Data preprocessing (change color data into gray scale,Reshape )
+
+2.training python file (trained CNN model to detect mask in photo or video )
+
+3.Detect Mask image(this python file will detect Mask in image)
+
+4.Detect Mask video(this python file will detect Mask in video using openCV)
+
+Note:-As Im still exploring (deep learning and OpenCV)So,I coundn't done many things to improve accuracy like (Increasing kernel ,Increase data volume using Augmentation,change Epochs,increase dropouts etc)
